@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Grupo de Séptimo';
-  frutas = ['Manzana','fresa','Naranja','Uva'];
+  frutas = ['Manzana','Pera','Naranja','Uva'];
 }
